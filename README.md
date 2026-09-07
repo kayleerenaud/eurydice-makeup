@@ -4,8 +4,10 @@ Self-applied SFX makeup sheets for **EURYDICE** by Sarah Ruhl, directed by Elia 
 
 Costume Design: Kaylee Renaud · Costume Associate: Z Weschler · Costume Assistant: Ollie Reece
 
-One page per performer. Each printed sheet carries a QR code to its own page here, so the copy
-taped to the station always points at the current version.
+**Performers: go to [eurydice-makeup.vercel.app](https://eurydice-makeup.vercel.app) or scan your
+QR code.** No account needed. This repo is the source; the site is what the codes point at.
+
+One page per performer.
 
 | Performer | Role | Time | Sheet |
 |---|---|---|---|
