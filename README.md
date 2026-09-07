@@ -1,4 +1,4 @@
-# EURYDICE — Makeup Charts
+# EURYDICE . Makeup Charts
 
 Self-applied SFX makeup sheets for **EURYDICE** by Sarah Ruhl, directed by Elia Monte-Brown.
 
@@ -17,9 +17,12 @@ taped to the station always points at the current version.
 | Maddy Kelly | Little Stone | 40 min | [little-stone.pdf](little-stone.pdf) |
 | Jasper Moore | Big Stone | 35 min | [big-stone.pdf](big-stone.pdf) |
 
-**[packet-all-seven.pdf](packet-all-seven.pdf)** — all seven sheets in one file, for printing.
+**[packet-all-seven.pdf](packet-all-seven.pdf)** . all seven sheets in one file, for printing.
 
-**[buy-list.pdf](buy-list.pdf)** — everything to purchase, with quantities. Seven separate kits.
+**[buy-list.pdf](buy-list.pdf)** . everything to purchase, with quantities. Seven separate kits.
+
+**[qr-codes.pdf](qr-codes.pdf)** . one QR per performer, opening their sheet. The loose PNGs are
+in [`qr/`](qr/) for dropping into slides. These are deliberately not printed on the sheets themselves.
 
 ## Before you start, every time
 
