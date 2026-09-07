@@ -1,0 +1,32 @@
+# EURYDICE — Makeup Charts
+
+Self-applied SFX makeup sheets for **EURYDICE** by Sarah Ruhl, directed by Elia Monte-Brown.
+
+Costume Design: Kaylee Renaud · Costume Associate: Z Weschler · Costume Assistant: Ollie Reece
+
+One page per performer. Each printed sheet carries a QR code to its own page here, so the copy
+taped to the station always points at the current version.
+
+| Performer | Role | Time | Sheet |
+|---|---|---|---|
+| Montana Jones | Father | 45 min | [father.pdf](father.pdf) |
+| Elliot Moxcey | Child | 30 min | [child.pdf](child.pdf) |
+| Nicky Little | Interesting Man | 30 min, plus 8 for the Underworld | [interesting-man.pdf](interesting-man.pdf) |
+| Kaya Bayley-Hay | Loud Stone | 40 min | [loud-stone.pdf](loud-stone.pdf) |
+| Jo Allen | The Stone | 45 min | [the-stone.pdf](the-stone.pdf) |
+| Maddy Kelly | Little Stone | 40 min | [little-stone.pdf](little-stone.pdf) |
+| Jasper Moore | Big Stone | 35 min | [big-stone.pdf](big-stone.pdf) |
+
+**[packet-all-seven.pdf](packet-all-seven.pdf)** — all seven sheets in one file, for printing.
+
+**[buy-list.pdf](buy-list.pdf)** — everything to purchase, with quantities. Seven separate kits.
+
+## Before you start, every time
+
+- Finish and powder your base first.
+- Powder between layers. Wet on wet lifts.
+- Seal at the end. Eyes closed, arm's length.
+- Test against your costume before dress.
+- Patch test adhesive and latex 24 hours ahead.
+- Stings, itches or lifts? Stop. Tell Z or Ollie.
+- Soap and warm water, then micellar. Never pick. Moisturize.
